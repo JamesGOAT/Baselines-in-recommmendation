@@ -1,0 +1,1 @@
+Here is come typical methos of recommendation system.
