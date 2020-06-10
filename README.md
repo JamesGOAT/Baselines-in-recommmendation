@@ -1,1 +1,1 @@
-Here is come typical methos of recommendation system.
+Here are come typical methos of recommendation system.
